@@ -1,1 +1,1 @@
-# Projeto - Jogo em C
+# Snake Game
