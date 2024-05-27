@@ -15,7 +15,7 @@ SnakeCash é um jogo de cobrinha desenvolvido para o projeto de PIF do 2º perí
 
 ## Tecnologias Utilizadas
 - **Linguagem de Programação**: C
-- **Ambiente de Desenvolvimento**: Baseado no repositório do Professor Thiaguinho.
+- **Ambiente de Desenvolvimento**: Baseado no repositório do Professor Thiaguinho (https://github.com/tgfb/cli-lib).
 
 ## Instalação e Execução
 1. Clone o repositório do SnakeCash.
