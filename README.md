@@ -30,3 +30,7 @@ Se você quiser limpar todos os arquivos compilados (arquivos objeto e o execut�
 Isso irá executar a regra 'clean' neste Makefile, que remove todos os arquivos objeto e o executável `cli-lib`.
 
 **Caso dê errado a compilação por meio do terminal, junte todos arquivos (os `.h` e os `.c`) dentro de uma pasta existente no cli-lib e compile tudo de uma vez**
+
+## Experimente o Jogo
+Você pode jogar uma versão online do SnakeCash diretamente no seu navegador através do Replit. Acesse o jogo pelo seguinte link:**https://replit.com/@tcq1/SnakeCash?v=1** Jogar SnakeCash no Replit.
+
